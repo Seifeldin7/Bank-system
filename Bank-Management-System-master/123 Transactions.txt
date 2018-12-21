@@ -1,0 +1,6 @@
+Added amount: 12
+New Balance: 12
+Deposit
+Added amount: 23
+New Balance: 35
+Deposit
